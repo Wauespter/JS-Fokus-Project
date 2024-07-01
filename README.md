@@ -18,7 +18,7 @@ This project is inspired by the Pomodoro technique, which aims to focus on impor
 ## Overview
 ### Screenshot
 
-![image](https://github.com/Wauespter/JS-Fokus-Project/issues/1#issue-2384912432)
+![Captura de Tela (46)](https://github.com/Wauespter/JS-Fokus-Project/assets/146996798/6a0e5e75-eeeb-4a10-a9a3-0eeb19589fe3)
 
 
 ### Links
